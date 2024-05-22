@@ -1,0 +1,83 @@
+.form-style{
+    width: 500px;
+    height: 250px;
+border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    background: rgb(228, 227, 227);
+}
+
+
+.col-md-12{
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+
+.form-group{
+    margin: 2px;
+    margin-top: 30px;
+    padding-top: 10px;
+}
+
+.form-control{
+    width: 400px;
+    height: 30px;
+    font-size: 17px;
+}
+
+.btn{
+    margin-top: 20px;
+ margin-left: 200px;
+    width: 100px;
+    height: 50px;
+    background: rgb(50, 167, 235);
+    border-radius: 5px;
+}
+
+
+
+.saved-note{
+    max-width: fit-content;
+    
+    
+    font-size: 30px;
+    text-decoration: black;
+}
+
+.saved-output{
+    max-width: 200px;
+    
+    font-size: 20px;
+    margin-left: auto;
+  
+
+}
+
+.note-collection{
+    
+    margin-top: 30px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(228, 227, 227);
+    word-wrap: break-word;
+}
+
+.btnd{
+    margin-top: 20px;
+    
+       width: 100px;
+       height: 30px;
+       background: rgb(233, 58, 27);
+       border-radius: 5px;
+}
+
+.final-form{
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
